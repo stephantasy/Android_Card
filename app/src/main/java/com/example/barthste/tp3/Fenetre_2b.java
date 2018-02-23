@@ -13,9 +13,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 /********************************************************
- *	IFT1135 - TP3				                		*
- *	Stéphane Barthélemy (20084771)		                *
- *	Page de sélection de l'étudiant                     *
+ *	Stéphane Barthélemy 				                *
  /*******************************************************/
 
 public class Fenetre_2b extends AppCompatActivity {

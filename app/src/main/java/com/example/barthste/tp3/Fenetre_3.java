@@ -19,9 +19,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 
 /********************************************************
- *	IFT1135 - TP3				                		*
- *	Stéphane Barthélemy (20084771)		                *
- *	Page de l'étudiant sélectionné                      *
+ *	Stéphane Barthélemy 				                *
  /*******************************************************/
 
 public class Fenetre_3 extends AppCompatActivity {

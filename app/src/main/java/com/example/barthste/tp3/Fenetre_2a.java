@@ -6,9 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 
 /********************************************************
- *	IFT1135 - TP3				                		*
- *	Stéphane Barthélemy (20084771)		                *
- *	Page de "Mauvais Password"                          *
+ *	Stéphane Barthélemy 				                *
  /*******************************************************/
 
 public class Fenetre_2a extends AppCompatActivity {
