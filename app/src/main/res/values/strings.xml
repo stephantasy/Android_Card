@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">Devoir 3 - barthste</string>
+    <string name="Name">Name:</string>
+    <string name="password">Password:</string>
+    <string name="submit">Submit</string>
+    <string name="NameHint">Enter your name</string>
+    <string name="PasswordHint">Enter your password</string>
+    <string name="badPwd_Back">Back</string>
+    <string name="badPwd_Text">Wrong Password! Access Denied.</string>
+    <string name="chooseName">Choose a name:</string>
+    <string name="backToStart">Back to Start</string>
+    <string name="enter_review">Enter your review, from 0 to 3:</string>
+    <string name="back_list">Back to List</string>
+    <string name="image_desc">Student Picture</string>
+    <string name="to_fill">to fill....</string>
+    <string name="studentIFT1135">Is student of IFT1135</string>
+    <string name="notStudentIFT1135">Not student of IFT1135</string>
+    <string name="moyenne">Grade for the presentation is:</string>
+    <string-array name="student_list">
+        <item>Stéphane Barthélemy</item>
+        <item>Darth Vador</item>
+        <item>Kylo Ren</item>
+    </string-array>
+</resources>

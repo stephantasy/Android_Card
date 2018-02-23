@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!--*****************************************************
+    *	IFT1135 - TP3				                		*
+    *	Stéphane Barthélemy (20084771)		                *
+    /*****************************************************-->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.barthste.tp3">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <!-- Afin de simplifier la gestion des vues, on interdit de pouvoir tourner le téléphone -->
+        <activity android:name=".Fenetre_1" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Fenetre_2a"  android:screenOrientation="portrait" />
+        <activity android:name=".Fenetre_2b"  android:screenOrientation="portrait" />
+        <activity android:name=".Fenetre_3"  android:screenOrientation="portrait" />
+    </application>
+
+</manifest>
